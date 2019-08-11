@@ -1,4 +1,4 @@
-package com.lhx.drysister.util;
+package com.lhx.drysister.imgloader;
 
 import android.annotation.SuppressLint;
 import android.graphics.Bitmap;
